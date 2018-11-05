@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/robo-meter.iml" filepath="$PROJECT_DIR$/robo-meter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robometer/robometer.iml" filepath="$PROJECT_DIR$/robometer/robometer.iml" />
     </modules>
   </component>
 </project>
